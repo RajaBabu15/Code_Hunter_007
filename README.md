@@ -1,2 +1,3 @@
 # Code_Hunter_007
-if isSimple(Code) and isHuntable(Code) then ServerUpload("Got it!!!Ha",Code)
+This Repe Contains 10 Python Question
+and There Output in screenshot form.
